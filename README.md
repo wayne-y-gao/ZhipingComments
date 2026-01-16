@@ -1,6 +1,6 @@
-# ZhipingComments
+# ZhipiComments
 
-A data set of Zhiping/脂评 Comments on 
+A data set of Zhipi/脂批 Comments on 
 
 Shi Tou Ji/The Story of the Stone/石头记
 
