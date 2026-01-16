@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 """Compute key summary statistics for ZhipiComments.csv.
 
+This script was generated using ChatGPT Pro.
+
 Usage:
   python compute_summary_stats.py \
     --input ZhipiComments.csv \
