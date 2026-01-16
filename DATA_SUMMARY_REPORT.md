@@ -1,6 +1,6 @@
 # 脂批数据集：关键汇总统计（Key Summary Statistics）
 
-- 数据文件: `zhipi_comments_dataset_github_polished.csv`
+- 数据文件: `ZhipiComments.csv`
 - 行数（批语单元）: **4,237**
 - 列数: **56**
 - `comment_id` 唯一值: **4,237**（重复: 0）
