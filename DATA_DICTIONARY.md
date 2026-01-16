@@ -4,7 +4,7 @@
 
 ## 文件
 - `ShiTouJi.txt`：石头记/红楼梦原始文本，其中【……】括号块内包含批语。
-- `ZhipingComments.csv`：主数据集（本仓库的“可分析数据”）。
+- `ZhipiComments.csv`：主数据集（本仓库的“可分析数据”）。
 - `BuildCommentsData.py`：复现脚本（从 TXT 生成 CSV）。
 - `LICENSE`：GPL-3.0 许可（适用于脚本/代码；对文本与数据的版权归属请自行核验）。
 
@@ -88,7 +88,7 @@
 1. 获取并确定在仓库中存在带有脂评的红楼梦原始文本 `ShiTouJi.txt`。
 2. 运行：
    ```bash
-   python BuildCommentData.py      --input ShiTouJi.txt      --output ZhipingCommentsRep.csv
+   python BuildCommentData.py      --input ShiTouJi.txt      --output ZhipiCommentsRep.csv
    ```
 3. 生成的 CSV 应与仓库版本一致（同列顺序、同规则）。
 
